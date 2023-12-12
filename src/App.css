@@ -1,6 +1,10 @@
 html {
   scroll-behavior: smooth;
 }
+@font-face {
+  font-family: Play;
+  src: url('./Play/Play-Regular.ttf');
+}
 
 .Header {
   display: flex;
